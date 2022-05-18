@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/drawable/background_border.xml" value="0.1165" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/drawable/bg_gray_corner_10.xml" value="0.1165" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/drawable/bg_green_corner_16.xml" value="0.1165" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/drawable/bg_round.xml" value="0.1165" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/drawable/duongvien_goctron.xml" value="0.1165" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/drawable/ic_home.xml" value="0.1165" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/drawable/ic_more.xml" value="0.1165" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_add_notify.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_add_user.xml" value="0.3578125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_add_voucher.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_admin.xml" value="0.32447916666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_bill_detail.xml" value="0.3625" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_buy_ticket.xml" value="0.13019250253292808" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_change_password.xml" value="0.5" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_detail_bike.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_detail_bill.xml" value="0.28353658536585363" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_edit_notify.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_edit_voucher.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_forgot_password.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_list_bicycle.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_list_bill.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_maps.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_my_profile.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_notify.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_notify_manage.xml" value="0.5" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_report.xml" value="0.13019250253292808" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_report2.xml" value="0.5" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_report3.xml" value="0.3625" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_report_month.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_scan_qr.xml" value="0.5" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_scan_qr2.xml" value="0.13019250253292808" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_select_ticket.xml" value="0.13019250253292808" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_show_user.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_sign_up.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_splash.xml" value="0.2921875" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_success_payment.xml" value="0.13019250253292808" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_success_report.xml" value="0.13019250253292808" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_unlock.xml" value="0.13019250253292808" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_unlock2.xml" value="0.13019250253292808" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_user_manage.xml" value="0.5" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/activity_voucher_manage.xml" value="0.5" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/dong_mua_ve.xml" value="0.2921875" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/dong_thong_bao.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/item_bike.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/item_bill.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/item_tke.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/layout_dialog_payment.xml" value="0.13019250253292808" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/layout_dialog_success.xml" value="0.13019250253292808" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/layout_header_nav.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/layout_header_nav_admin.xml" value="0.32447916666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/one_line_notify_manage.xml" value="0.5" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/one_line_user_manage.xml" value="0.5" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/layout/one_line_voucher_manage.xml" value="0.5" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/menu/menu1.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/menu/menu3.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/menu/menu_bill.xml" value="0.3625" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/menu/menu_nav.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/menu/menu_nav_admin.xml" value="0.5" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/menu/option_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/menu/sort_notify_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/menu/sort_user_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Nhom18AndroidXeDap/app/src/main/res/menu/sort_voucher_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

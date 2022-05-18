@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuNotifyTitleAtoZ"
+        android:title="Tiêu đề: A->Z" />
+    <item
+        android:id="@+id/menuNotifyTitleZtoA"
+        android:title="Tiêu đề: Z->A" />
+    <item
+        android:id="@+id/menu_notify_dateAscending"
+        android:title="Ngày: tăng dần" />
+    <item
+        android:id="@+id/menu_notify_dateDescending"
+        android:title="Ngày: giảm dần" />
+</menu>

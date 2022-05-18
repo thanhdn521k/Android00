@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="409dp"
+        android:layout_height="729dp"
+        android:orientation="vertical"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="#40c0ff"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="342dp"
+                android:layout_height="56dp"
+                android:layout_marginLeft="80dp"
+                android:layout_marginTop="30dp"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"
+                android:textSize="28dp"
+                android:text="Chi tiết hoá đơn" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="120dp"
+                android:layout_marginRight="10dp"
+                android:text="Mã hoá đơn:"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+
+            <EditText
+                android:id="@+id/txtMaHoaDon"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="150dp"
+                android:layout_marginRight="10dp"
+                android:ems="10"
+                android:hint="Mã hoá đơn"
+                android:inputType="text"
+                android:text=""
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="200dp"
+                android:layout_marginRight="10dp"
+                android:text="Họ tên khách hàng:"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+
+            <EditText
+                android:id="@+id/txtFullNameUser"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="230dp"
+                android:layout_marginRight="10dp"
+                android:ems="10"
+                android:hint="Họ tên khách"
+                android:inputType="text"
+                android:text=""
+                android:textColor="@color/black" />
+
+            <!--            <TextView-->
+            <!--                android:id="@+id/textView4"-->
+            <!--                android:layout_width="match_parent"-->
+            <!--                android:layout_height="wrap_content"-->
+            <!--                android:layout_marginLeft="20dp"-->
+            <!--                android:layout_marginTop="280dp"-->
+            <!--                android:layout_marginRight="10dp"-->
+            <!--                android:text="Mã xe:"-->
+            <!--                android:textColor="@color/black"-->
+            <!--                android:textSize="20dp" />-->
+
+            <!--            <EditText-->
+            <!--                android:id="@+id/txtMaXeBill"-->
+            <!--                android:layout_width="match_parent"-->
+            <!--                android:layout_height="wrap_content"-->
+            <!--                android:layout_marginLeft="20dp"-->
+            <!--                android:layout_marginTop="310dp"-->
+            <!--                android:layout_marginRight="10dp"-->
+            <!--                android:ems="10"-->
+            <!--                android:hint="Mã xe"-->
+            <!--                android:inputType="number"-->
+            <!--                android:text=""-->
+            <!--                android:textColor="@color/black" />-->
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="280dp"
+                android:layout_marginRight="10dp"
+                android:text="Giờ thuê:"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+
+            <EditText
+                android:id="@+id/txtGioThue"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="310dp"
+                android:layout_marginRight="10dp"
+                android:ems="10"
+                android:hint="Giờ thuê"
+                android:inputType="datetime"
+                android:text=""
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="360dp"
+                android:layout_marginRight="10dp"
+                android:text="Giờ trả:"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+
+            <EditText
+                android:id="@+id/txtGioTra"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="390dp"
+                android:layout_marginRight="10dp"
+                android:ems="10"
+                android:hint="Giờ trả"
+                android:inputType="text"
+                android:text=""
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="440dp"
+                android:layout_marginRight="10dp"
+                android:text="Tổng tiền:"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+
+            <EditText
+                android:id="@+id/txtTongTien"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="470dp"
+                android:layout_marginRight="10dp"
+                android:ems="10"
+                android:hint="Tổng tiền"
+                android:inputType="number"
+                android:text=""
+                android:textColor="@color/black" />
+
+            <!--            <Button-->
+            <!--                android:id="@+id/buttonSave"-->
+            <!--                android:layout_width="match_parent"-->
+            <!--                android:layout_height="wrap_content"-->
+            <!--                android:layout_marginLeft="240dp"-->
+            <!--                android:layout_marginTop="620dp"-->
+            <!--                android:layout_marginRight="20dp"-->
+            <!--                android:text="Lưu" />-->
+
+            <Button
+                android:id="@+id/buttonBack"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="660dp"
+                android:text="Back" />
+
+            <ListView
+                android:id="@+id/listBicycle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="520dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="60dp" />
+        </RelativeLayout>
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

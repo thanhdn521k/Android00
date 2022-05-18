@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_ticket"
+            android:title="@string/nav_ticket"
+            android:icon="@drawable/ticket"
+            />
+
+        <item
+            android:id="@+id/nav_notify"
+            android:title="@string/nav_notify"
+            android:icon="@drawable/icon_bell"
+            />
+    </group>
+
+    <item android:title="@string/nav_account">
+        <menu>
+
+            <item android:id="@+id/nav_my_profile_customer"
+                android:title="@string/nav_my_profile"
+                android:icon="@drawable/ic_my_profile"/>
+
+            <item android:id="@+id/nav_change_password_customer"
+                android:title="@string/nav_change_password"
+                android:icon="@drawable/ic_password"/>
+
+            <item android:id="@+id/nav_sign_out_customer"
+                android:title="@string/nav_sign_out"
+                android:icon="@drawable/ic_my_profile"/>
+        </menu>
+    </item>
+
+</menu>

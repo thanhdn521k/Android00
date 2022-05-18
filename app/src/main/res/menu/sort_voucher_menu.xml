@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuVoucherCodeAtoZ"
+        android:title="Mã voucher : A->Z" />
+    <item
+        android:id="@+id/menuVoucherCodeZtoA"
+        android:title="Mã voucher : Z->A" />
+    <item
+        android:id="@+id/menu_voucher_discountAscending"
+        android:title="Mức khuyến mãi: tăng dần" />
+    <item
+        android:id="@+id/menu_voucher_discountDescending"
+        android:title="Mức khuyến mãi: giảm dần" />
+    <item
+        android:id="@+id/menu_voucher_minBillAscending"
+        android:title="Đơn tối thiểu: tăng dần" />
+
+    <item
+        android:id="@+id/menu_voucher_minBillDescending"
+        android:title="Đơn tối thiểu: giảm dần" />
+</menu>

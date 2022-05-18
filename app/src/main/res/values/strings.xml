@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Nhom18AndroidXeDap</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_add">Add</string>
+    <string name="nav_back">Back</string>
+    <string name="nav_voucher">Voucher</string>
+    <string name="nav_notify">Thông báo</string>
+    <string name="nav_account">Tài khoản</string>
+    <string name="nav_user">Người dùng</string>
+    <string name="nav_my_profile">Hồ sơ</string>
+    <string name="nav_change_password">Thay đổi mật khẩu</string>
+    <string name="nav_sign_out">Đăng xuất</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="nav_ticket">Mua vé</string>
+</resources>

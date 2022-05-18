@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuFullNameAtoZ"
+        android:title="Họ tên: A->Z" />
+    <item
+        android:id="@+id/menuFullNameZtoA"
+        android:title="Họ tên: Z->A" />
+    <item
+        android:id="@+id/menu_userID_Ascending"
+        android:title="ID: tăng dần" />
+    <item
+        android:id="@+id/menu_userID_Descending"
+        android:title="ID: giảm dần" />
+</menu>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".AddVoucherActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="87dp"
+        android:background="@color/red"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="202dp"
+            android:layout_height="55dp"
+            android:gravity="center"
+
+            android:text="Thêm voucher khuyến mãi"
+            android:textColor="@color/white"
+            android:textSize="24dp" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="100dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="108dp"
+                    android:layout_height="34dp"
+                    android:gravity="center"
+                    android:text="Mã voucher:"
+                    android:textColor="@color/black"
+                    android:textSize="18dp" />
+
+                <EditText
+                    android:id="@+id/editTextCode"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:background="@drawable/duongvien_goctron"
+                    android:textColor="@color/black"
+                    android:textSize="18dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="92dp"
+                    android:layout_height="38dp"
+                    android:gravity="center"
+                    android:text="Discount:"
+                    android:textColor="@color/black"
+                    android:textSize="18dp" />
+
+                <EditText
+                    android:id="@+id/editTextDiscount"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:layout_marginLeft="12dp"
+                    android:background="@drawable/duongvien_goctron"
+                    android:textColor="@color/black"
+                    android:textSize="18dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="93dp"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:text="Đơn hàng tối thiểu :"
+                    android:textColor="@color/black"
+                    android:textSize="18dp" />
+
+                <EditText
+                    android:id="@+id/editTextMinBill"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:layout_marginLeft="12dp"
+                    android:background="@drawable/duongvien_goctron"
+                    android:textColor="@color/black"
+                    android:textSize="18dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="92dp"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:text="Thời gian bắt đầu :"
+                    android:textColor="@color/black"
+                    android:textSize="18dp" />
+
+                <TextView
+                    android:id="@+id/textViewStartTime"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/duongvien_goctron"
+                    android:textSize="18dp"
+                    android:textColor="@color/black"
+                    android:layout_marginLeft="12dp"/>
+
+<!--                <EditText-->
+<!--                    android:id="@+id/editTextStartTime"-->
+<!--                    android:layout_width="match_parent"-->
+<!--                    android:layout_height="48dp"-->
+<!--                    android:layout_marginLeft="12dp"-->
+<!--                    android:background="@drawable/duongvien_goctron"-->
+<!--                    android:ems="10"-->
+<!--                    android:inputType="date"-->
+<!--                    android:textColor="@color/black"-->
+<!--                    android:textSize="18dp" />-->
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="92dp"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:text="Thời gian kết thúc :"
+                    android:textColor="@color/black"
+                    android:textSize="18dp" />
+
+                <TextView
+                    android:id="@+id/textViewEndTime"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/duongvien_goctron"
+                    android:textSize="18dp"
+                    android:textColor="@color/black"
+                    android:layout_marginLeft="12dp"/>
+
+<!--                <EditText-->
+<!--                    android:id="@+id/editTextEndTime"-->
+<!--                    android:layout_width="match_parent"-->
+<!--                    android:layout_height="48dp"-->
+<!--                    android:layout_marginLeft="12dp"-->
+<!--                    android:background="@drawable/duongvien_goctron"-->
+<!--                    android:ems="10"-->
+<!--                    android:inputType="date"-->
+<!--                    android:textColor="@color/black"-->
+<!--                    android:textSize="18dp" />-->
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/buttonAddNewVoucher"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Thêm"
+                android:layout_marginTop="50dp"
+                android:textColor="@color/black"
+                android:textSize="16dp" />
+
+<!--            <LinearLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="match_parent"-->
+<!--                android:gravity="center"-->
+<!--                android:layout_marginTop="30dp"-->
+<!--                android:orientation="horizontal">-->
+
+<!--                <Button-->
+<!--                    android:id="@+id/buttonAddNewVoucher"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="Thêm"-->
+<!--                    android:layout_marginLeft="80dp"-->
+<!--                    android:layout_marginRight="80dp"-->
+<!--                    android:textColor="@color/black"-->
+<!--                    android:textSize="16dp" />-->
+
+<!--                <Button-->
+<!--                    android:id="@+id/buttonBackToVoucherManage"-->
+<!--                    android:layout_width="115dp"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_marginEnd="52dp"-->
+<!--                    android:text="Quay lại"-->
+<!--                    android:textColor="@color/black"-->
+<!--                    android:textSize="16dp" />-->
+<!--            </LinearLayout>-->
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+
+
+</LinearLayout>

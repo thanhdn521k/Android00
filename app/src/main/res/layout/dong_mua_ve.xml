@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout"
+    android:layout_width="fill_parent"
+    android:layout_height="76dp"
+    android:padding="10dp" >
+
+    <ImageView
+        android:id="@+id/image_ticket"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/gift72" />
+
+    <TextView
+        android:id="@+id/txtCodeBill"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/image_ticket"
+        android:text="codeBill"
+        android:textColor="#000"
+        android:textSize="13dp" />
+
+    <TextView
+        android:id="@+id/startTimeBill"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/image_ticket"
+        android:layout_below="@+id/txtCodeBill"
+        android:text="startTimeBill"
+        android:textColor="#000"
+        android:textSize="13dp" />
+
+    <TextView
+        android:id="@+id/endTimeBill"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/startTimeBill"
+        android:layout_toRightOf="@id/image_ticket"
+        android:text="endTimeBill"
+        android:textColor="#000"
+        android:textSize="13dp" />
+
+
+</RelativeLayout>
